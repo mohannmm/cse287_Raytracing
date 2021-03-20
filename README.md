@@ -1,0 +1,3 @@
+# cse287_Raytracing
+
+Used c++ and GLL graphics library to make a raytracer! was very cool, turns out a lot of clever math is used to make lighting work...
